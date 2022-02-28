@@ -1,0 +1,6 @@
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/bin/Debug/Geometry.exe
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/bin/Debug/Geometry.pdb
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/obj/Debug/Geometry.csproj.AssemblyReference.cache
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/obj/Debug/Geometry.csproj.CoreCompileInputs.cache
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/obj/Debug/Geometry.exe
+/Users/jenniferhajduk/Repositories/c-sharp/Geometry/Geometry/obj/Debug/Geometry.pdb

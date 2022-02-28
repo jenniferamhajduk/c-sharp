@@ -1,0 +1,6 @@
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/bin/Debug/hello_world.exe
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/bin/Debug/hello_world.pdb
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/obj/Debug/hello_world.csproj.AssemblyReference.cache
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/obj/Debug/hello_world.csproj.CoreCompileInputs.cache
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/obj/Debug/hello_world.exe
+/Users/jenniferhajduk/Repositories/c-sharp/hello_world/hello_world/obj/Debug/hello_world.pdb
