@@ -1,0 +1,6 @@
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/bin/Debug/Height_Category.exe
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/bin/Debug/Height_Category.pdb
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/obj/Debug/Height_Category.csproj.AssemblyReference.cache
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/obj/Debug/Height_Category.csproj.CoreCompileInputs.cache
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/obj/Debug/Height_Category.exe
+/Users/jenniferhajduk/Repositories/c-sharp/Height_Category/Height_Category/obj/Debug/Height_Category.pdb
